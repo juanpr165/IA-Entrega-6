@@ -1,0 +1,7 @@
+langgraph>=0.2.70,<1.0
+langchain-core>=0.3.35,<1.0
+langchain-groq>=0.2.4,<1.0
+ddgs>=7.0.0,<10.0
+python-dotenv>=1.0.1,<2.0
+pydantic>=2.10.0,<3.0
+pytest>=8.3.0,<9.0

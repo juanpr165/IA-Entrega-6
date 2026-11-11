@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Demo: orquestador multi-agente",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/demo.py",
+      "console": "integratedTerminal",
+      "args": ["Investigá el impacto de la IA generativa en educación y calculá la variación porcentual entre 120 y 156."]
+    }
+  ]
+}
